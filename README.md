@@ -1,2 +1,2 @@
 # Compost
-Sustainable lending
+Sustainable and combined lending
